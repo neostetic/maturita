@@ -10,10 +10,10 @@
   - [ ] [Alexandre Dumas - Tři mušketýři (1971)](/files/Tři%20mušketýři.md)
 
 - 4 díla ze světové literatury 20. a 21. století
-  - [ ] [Antoine de Saint-Exupéry - Malý princ (2010)](/files/Malý princ.md)
+  - [ ] [Antoine de Saint-Exupéry - Malý princ (2010)](/files/Malý%20princ.md)
   - [ ] [Wladyslaw Szpilman - Pianista (Smrt města) (1999)](/files/Pianista.md)
   - [ ] [Romain Rolland - Petr a Lucie (1973)](/files/Petr%20a%20Lucie.md)
-  - [ ] [Erich Maria Remarque - Na západní frontě klid (1973)](/files/Na západní frontě klid.md)
+  - [ ] [Erich Maria Remarque - Na západní frontě klid (1973)](/files/Na%20západní%20frontě%20klid.md)
 
 - 5 děl z české literatury 20. a 21. století
   - [ ] [Viktor Dyk - Krysař](/files/Krysař.md)
