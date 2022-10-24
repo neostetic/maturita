@@ -1,7 +1,7 @@
 ### Maturitní zkoušení z Českého jazyka - literatura
 
 - 2 díla z literatury 18. století – česká i světová tvorba – v libovolném poměru
-  - [x] [William Shakespeare - Romeo a Julie (1985)](/files/Romeo a Julie.md)
+  - [x] [William Shakespeare - Romeo a Julie (1985)](/files/Romeo%20a%20Julie.md)
   - [ ] [Moliére - Lakomec (1966)](/files/Lakomec.md)
 
 - 3 díla z literatury 19. století – česká i světová tvorba – v libovolném poměru
@@ -17,10 +17,10 @@
 
 - 5 děl z české literatury 20. a 21. století
   - [ ] [Viktor Dyk - Krysař](/files/Krysař.md)
-  - [ ] [Josef Kopta - Hlídač č. 47](/files/Hlídač č. 47.md)
-  - [ ] [Ivan Olbracht - Nikola Šuhaj loupežník](/files/Nikola Šuhaj loupežník.md)
+  - [ ] [Josef Kopta - Hlídač č. 47](/files/Hlídač%20č.%2047.md)
+  - [ ] [Ivan Olbracht - Nikola Šuhaj loupežník](/files/Nikola%20Šuhaj%20loupežník.md)
   - [ ] [Karel Čapek - Bílá nemoc](/files/Bílá nemoc.md)
-  - [ ] [Karel Poláček - Bylo nás pět](/files/Bylo nás pět.md)
+  - [ ] [Karel Poláček - Bylo nás pět](/files/Bylo%20nás%20pět.md)
 
 - 6 děl libovolného výběru
   - [ ] [Charles Dickens - Oliver Twist (1966)](/files/Oliver Twist.md)
