@@ -1,11 +1,11 @@
 ### Maturitní zkoušení z Českého jazyka - literatura
 
 - 2 díla z literatury 18. století – česká i světová tvorba – v libovolném poměru
-  - [x] [William Shakespeare - Romeo a Julie (1985)](/files/Romeo%20a%20Julie.md)
+  - [ ] [William Shakespeare - Romeo a Julie (1985)](/files/Romeo%20a%20Julie.md)
   - [ ] [Moliére - Lakomec (1966)](/files/Lakomec.md)
 
 - 3 díla z literatury 19. století – česká i světová tvorba – v libovolném poměru
-  - [x] [Victor Hugo - Bídníci (1984)](/files/Bídníci.md)
+  - [ ] [Victor Hugo - Bídníci (1984)](/files/Bídníci.md)
   - [ ] [Nikolaj Vasiljevič Gogol - Revizor (2010)](/files/Revizor.md)
   - [ ] [Alexandre Dumas - Tři mušketýři (1971)](/files/Tři%20mušketýři.md)
 
