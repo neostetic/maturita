@@ -2,5 +2,5 @@
 
 
 <p align="right">
-  <a href="./..">Go Back</a>
+  <a href="/..">Go Back</a>
 </p>
