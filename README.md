@@ -19,7 +19,7 @@
   - [x] [Viktor Dyk - Krysař](/files/Krysař.md)
   - [ ] [Josef Kopta - Hlídač č. 47](/files/Hlídač%20č.%2047.md)
   - [ ] [Ivan Olbracht - Nikola Šuhaj loupežník](/files/Nikola%20Šuhaj%20loupežník.md)
-  - [ ] [Karel Čapek - Bílá nemoc](/files/Bílá%20nemoc.md)
+  - [x] [Karel Čapek - Bílá nemoc](/files/Bílá%20nemoc.md)
   - [ ] [Karel Poláček - Bylo nás pět](/files/Bylo%20nás%20pět.md)
 
 - 6 děl libovolného výběru
