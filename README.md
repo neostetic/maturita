@@ -1,7 +1,7 @@
 ### Maturitní zkoušení z Českého jazyka - literatura
 
 - 2 díla z literatury 18. století – česká i světová tvorba – v libovolném poměru
-  - [ ] [William Shakespeare - Romeo a Julie (1985)](/files/Romeo%20a%20Julie.md)
+  - [x] [William Shakespeare - Romeo a Julie (1985)](/files/Romeo%20a%20Julie.md)
   - [ ] [Moliére - Lakomec (1966)](/files/Lakomec.md)
 
 - 3 díla z literatury 19. století – česká i světová tvorba – v libovolném poměru
