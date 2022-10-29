@@ -16,7 +16,7 @@
   - [ ] [Erich Maria Remarque - Na západní frontě klid (1973)](/files/Na%20západní%20frontě%20klid.md)
 
 - 5 děl z české literatury 20. a 21. století
-  - [ ] [Viktor Dyk - Krysař](/files/Krysař.md)
+  - [x] [Viktor Dyk - Krysař](/files/Krysař.md)
   - [ ] [Josef Kopta - Hlídač č. 47](/files/Hlídač%20č.%2047.md)
   - [ ] [Ivan Olbracht - Nikola Šuhaj loupežník](/files/Nikola%20Šuhaj%20loupežník.md)
   - [ ] [Karel Čapek - Bílá nemoc](/files/Bílá%20nemoc.md)
