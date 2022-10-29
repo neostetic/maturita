@@ -8,8 +8,8 @@ Vydalo nakladatelství Borový v Praze roku 1945 (10. vydání). Počet stran: 1
 
 #### HLAVNÍ POSTAVY:
 
-dr. Galén - chytrý, ale zároveň velmi naivní, když si myslí, že může zabránit válkám ve světě
-maršál - myslí především na sebe; dokud sám není postižen nemocí, nemyslí na lidi, kteří zbytečně umírají ve válce
+ - **dr. Galén** - chytrý, ale zároveň velmi naivní, když si myslí, že může zabránit válkám ve světě
+ - **maršál** - myslí především na sebe; dokud sám není postižen nemocí, nemyslí na lidi, kteří zbytečně umírají ve válce
 
 #### STRUČNÝ DĚJ:
 
