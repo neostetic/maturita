@@ -1,4 +1,12 @@
 ### Victor Hugo - Bídníci (1984)
+ - společenský román
+ - zachycuje život lidí v 1. polovině 19 století, realistický popis i kritika společnosti
+
+#### LITERÁRNÍ KONTEXT
+ - **romantismus** = umělecký směr, žívotní pocit a postoj člověka
+ - jméno odvozeno od románu (moderní slovesný útvar)
+ - divoké přirodní scénarie, vzdálené krajiny
+ - důraz na národnost a tradice
 
 #### STRUČNĚ O AUTOROVI:
  - lyrik, prozaik, dramatik
