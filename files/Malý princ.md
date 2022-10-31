@@ -4,10 +4,11 @@
  - folozofický pohádka
 
 #### LITERÁRNÍ KONTEXT:
- - 1 světová válka
- - převažuje autobiografie - požitky z hrůz na bojišti
- - psychická proměna hrdinů
- - vlastenecké prvky, nenávist války
+ - tradiční proud francouzského realismu
+   - 1 světová válka
+   - převažuje autobiografie - požitky z hrůz na bojišti
+   - psychická proměna hrdinů
+   - vlastenecké prvky, nenávist války
 
 #### STRUČNĚ O AUTOROVI:
  - francouzký prozaik, publicista a letec
