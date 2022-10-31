@@ -4,7 +4,7 @@
  - folozofický pohádka
 
 #### LITERÁRNÍ KONTEXT:
- - 1. světová válka
+ - 1 světová válka
  - převažuje autobiografie - požitky z hrůz na bojišti
  - psychická proměna hrdinů
  - vlastenecké prvky, nenávist války
