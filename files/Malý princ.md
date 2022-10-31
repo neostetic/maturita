@@ -1,5 +1,26 @@
 ### Antoine de Saint-Exupéry - Malý princ (2010)
 
+ - próza
+ - folozofický pohádka
+
+#### LITERÁRNÍ KONTEXT:
+ - 1. světová válka
+ - převažuje autobiografie - požitky z hrůz na bojišti
+ - psychická proměna hrdinů
+ - vlastenecké prvky, nenávist války
+
+#### STRUČNĚ O AUTOROVI:
+ - francouzký prozaik, publicista a letec
+ - narodil se v roce 1900 v Lyoně
+ - nazával se Marie Roger, šlechtického původu
+ - když byl mladý, věnoval se letectví a umřel mu otec
+ - stal se válečným letcem, píše romány s leteckou tématikou
+
+#### DALŠÍ DÍLA:
+ - **Země lidí** - motiv ztroskotání na poušti
+ - **Noční let** - síla lidkého ducha jichoafrické letecké linky
+ - **Letec** - povídka
+
 #### PROSTŘEDÍ:
 Místa planety Země (poušť, zahrada, ...), planetky/hvězdy (s vladařem, pijanem aj.)
 
