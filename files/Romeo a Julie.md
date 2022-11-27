@@ -6,8 +6,27 @@
 #### STRUČNĚ O AUTOROVI:
 William Shakespeare byl anglický básník a dramatik 16. století. Narodil se v Stratfordu nad Avonou. Psal komedie, od roku 1608 pak převážně tragédie. Napsal 37 divadelních her, 154 sonetů, básně. Je považován za anglického národního básníka a klíčovou postavu evropského dramatu.
 
-#### PREMIÉRA:
-Hra měla premiéru v roce 1595 (renesance).
+#### DALŠÍ DÍLA:
+- **Zkrocení zlé ženy** - komedie
+- **Romeo a Julie** - tragédie
+- **Hamlet** - tragédie
+- **Othello** - tragédie
+
+#### AUTOŘI DOBY:
+- **Geoffrey Chancer** – Canterburské povídky.
+- **Dante Allighieri** – Božská komedie.
+- **Francois Villon** – Malý a Velký testament.
+- **Lope de Vega** – Fuente Ovejuna.
+
+#### HISTORICKÝ KONTEXT:
+- rozvíjí se v Itálii koncem 14. století
+- návrat k antickým ideálům, důraz na člověka, užívání si života na zemi
+- nové vědní obodry = chemie, fyzika, anatomie
+- roste touha po poznání, vědění
+- 1492 objevení ameriky
+- 1519 obpltí Země
+- inspirace v antických vzorech
+- malířství a sochařství - Leonardo Da Vinci, Rafael, ...
 
 #### TÉMA:
 Příběh o nešťastné lásce, které brání dva znepřátelené rody - Montekové a Kapuleti.
