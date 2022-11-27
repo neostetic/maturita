@@ -2,18 +2,35 @@
  - společenský román
  - zachycuje život lidí v 1. polovině 19 století, realistický popis i kritika společnosti
 
-#### LITERÁRNÍ KONTEXT
- - **romantismus** = umělecký směr, žívotní pocit a postoj člověka
- - jméno odvozeno od románu (moderní slovesný útvar)
- - divoké přirodní scénarie, vzdálené krajiny
- - důraz na národnost a tradice
-
 #### STRUČNĚ O AUTOROVI:
  - lyrik, prozaik, dramatik
  - odmítal klasicismus s jeho jednotami a chtěl prosadit míšení stylů a žánrů
  - Legenda věků (3 dilný básnický cyklus), Bídníci, Chrám matky boží v Paříži (román), Dělníci moře, Devadesát tři
  - dramata - Rum Blas, předmluva k dramatu Cromwell (1827), Hermani (1830)
 
+#### DALŠÍ DÍLA:
+ - Legenda věků (3 dilný básnický cyklus)
+ - Bídníci,
+ - Chrám matky boží v Paříži (román)
+ - Dělníci moře
+ - Devadesát tři
+
+#### AUTOŘI DOBY:
+ - Alexandr Sergejovič Puškin
+ - William Blake
+ - Jane Austenová
+
+#### LITERÁRNÍ KONTEXT:
+ - **romantismus** = umělecký směr, žívotní pocit a postoj člověka
+ - jméno odvozeno od románu (moderní slovesný útvar)
+ - divoké přirodní scénarie, vzdálené krajiny
+ - důraz na národnost a tradice
+ - náměty středověku - rytíři, gotika
+ - doba revoluce - člověk je bezmocný, konflikt
+   - autoři proti společnosti - vzpoura končí nezdarem
+  - hrdina splývá s autorem; je si vědom své výjmečnosti 
+  - hrdinka často odmítá vášnivou lásku
+  - drama méně významná, návrat k Shakespearovi
 
 #### POSTAVY:
  - **Jean Valjean** - bývalý galejník, hodný, pomáhá chudým, poněkud naivní
@@ -26,6 +43,11 @@ Děj se odehrává v letech 1815-1830 ve Francii. Vypráví o bývalém vězni J
 Probíhá proces s mužem, který je omylem považován za Valjeana a je souzen za krádež peněz. Valjean se k tomuto soudu dostaví a odhalí zde svou totožnost. Je vězněn. Z vězení uprchne, vyzvedne Cosettku a uprchne s ní do Paříže. Zde se do ní zamiluje chudý student Marius.
 Valjean zachrání Mariovi život na barikádách. Marius si bere Cosettku. Valjean se Mariovi svěří se svou minulostí. Ten ho k vůli tomu zavrhne. Pak se ale dozví, komu vděčí za život a s Cosettkou ho jednou navštíví. Valjean je ale nemocen a umírá.
 
+#### KOMPOZICE a JAZYK
+- 5 dílů: Fantina, Cosetta, Marius, Idyla Plumetovy ulice a epopej ulice Saint-Denis, Jean Valjean
+- propojeny postavou Jeana Valjeana
+- ve vypravování se objevují úvahové, popisné pasáže
+- postavy se rozlišují druhem jazyka (slang, nářečí, historismy, ...)
 
 <p align="right">
   <a href="https://github.com/neostetic/maturita">Go Back</a>
