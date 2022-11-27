@@ -3,13 +3,6 @@
  - próza
  - folozofický pohádka
 
-#### LITERÁRNÍ KONTEXT:
- - tradiční proud francouzského realismu
-   - 1 světová válka
-   - převažuje autobiografie - požitky z hrůz na bojišti
-   - psychická proměna hrdinů
-   - vlastenecké prvky, nenávist války
-
 #### STRUČNĚ O AUTOROVI:
  - francouzký prozaik, publicista a letec
  - narodil se v roce 1900 v Lyoně
@@ -21,6 +14,22 @@
  - **Země lidí** - motiv ztroskotání na poušti
  - **Noční let** - síla lidkého ducha jichoafrické letecké linky
  - **Letec** - povídka
+
+#### AUTOŘI DOBY: 
+ - **Francis Scott Fitzgerald** - Na prahu ráje, Velký Gatsby
+ - **Virginia Wolfová** - Skvrna na zdi 
+ - **Heinrich Mann** - Profesor neřád
+ 
+#### LITERÁRNÍ A HISTORICKÝ KONTEXT:
+ - doba velkých politických a společenských změn
+ - rozpad Rakouska-Uherska, vznik Sovětského svazu a nastolení komunismu
+ - technologický pokrok
+ - Dadaismus a Surrealismus
+ - tradiční proud francouzského realismu
+   - 1 světová válka
+   - převažuje autobiografie - požitky z hrůz na bojišti
+   - psychická proměna hrdinů
+   - vlastenecké prvky, nenávist války
 
 #### PROSTŘEDÍ:
 Místa planety Země (poušť, zahrada, ...), planetky/hvězdy (s vladařem, pijanem aj.)
