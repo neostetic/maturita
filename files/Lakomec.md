@@ -46,9 +46,6 @@ komedie) žánry
 #### STRUČNÝ DĚJ:
 - Harpagon byl starý lakomec, šlo mu jen o peníze. Šetřil na čem mohl a pořád měl strach, aby ho někdo neokradl. Jednou se rozhodl, že si vezme mladou a krásnou Marianu, kterou ovšem miloval jeho syn Kleant a že svou dceru Elišku provdá za starého ale bohatého Anselma. Eliška však milovala správce Valéra a ani ona, ani Kleant se nechtěli své lásky vzdát. Vše nakonec vyřešil Kleantův sluha – vzal Harpagonovi jeho kasičku a nevrátil mu ji, dokud nesouhlasil se sňatky svých dětí. Mezitím zjistil Valér, že Mariana je jeho sestra a Anselm jejich otec. Konečný souhlas se svatbami dal Harpagon až poté, co Anselm slíbil, že je obě zaplatí.
 
-Tento text byl zkopírován ze serveru: https://www.cesky-jazyk.cz/ctenarsky-denik/moliere/lakomec-6.html#ixzz7pLwsqj2F
-Publikování nebo další veřejné šíření obsahu serveru Český-jazyk.cz je bez písemného souhlasu provozovatele výslovně zakázáno! Užití výhradně jen pro osobní účely je možné.
-
 #### KOMPOZICE DÍLA:
 - hra se skládá z pěti obrazů (stejně jako antická dramata)
 - děj se odvíjí chronologicky
