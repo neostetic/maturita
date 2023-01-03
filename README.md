@@ -35,7 +35,7 @@
   - [ ] [Charles Dickens - Oliver Twist (1966)](/files/Oliver%20Twist.md)
   - [ ] [Karel Hynek Mácha - Máj ](/files/Máj.md)
   - [ ] [Karel Jaromír Erben - Kytice ](/files/Kytice.md)
-  - [ ] 2 - [Jan Drda - Němá barikáda](/files/Němá%20barikáda.md)
+  - [x] 2 - [Jan Drda - Němá barikáda](/files/Němá%20barikáda.md)
   - [ ] [Jaroslav Vrchlický - Noc na Karlštejně](/files/Noc%20na%20Karlštejně.md)
   - [ ] [George Bernard Shaw - Pygmalion (2012)](/files/Pygmalion.md)
 
