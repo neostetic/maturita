@@ -37,6 +37,7 @@
   - [ ] [George Bernard Shaw - Pygmalion (2012)](/files/Pygmalion.md) ✖️
 
 #### Osnova
+- [DOWNLOAD](/files/osnova.png)
 <table class="tg">
 <thead>
   <tr>
