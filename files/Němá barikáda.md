@@ -40,8 +40,10 @@
 - **pan Martínek** − statečný, muž, kovář, podezíravý, nebojácný, statný
 
 #### STRUČNÝ DĚJ:
-- **Když si šli děti hrát, odstřelil je zákeřník**. Seběhli se místní muži a začali přemýšlet, odkud se střílelo. Nevěděli, odkud se výstřel vzal, protože všechny domy v bloku prohledali od půdy až po sklep. Jeden z nich se však přizná, že našel stařenu a zželelo se mu jí. Muži šli k domu té stařeny, zazvonili a stařena otevřela. Panu Martínkovi se celou dobu něco nezdá. Prohledal dům a na stole našel nakousnutý krajíc chleba, od mužského, širokého chrupu. Začal prohledávat šatní skříň, kde našel Němce Waltera − zákeřníka. Protože byl kovář, přepral ho. Stařena, zákeřníkova matka, se snažila syna ochránit a svalit veškerou vinu na sebe. Muži ji donutili se podívat z okna na nebohou mrtvou Helenku. Stařena při tom nedopatřením vypadla z okna. Zákeřníka vyvedli ven k Helence a donutili ho líbat zem. Plivnul Helence do obličeje. Muži ho donutili „žrát“ hlínu ze země a předali ho partyzánům.
-
+- **Zákeřník** - Když si šli děti hrát, odstřelil je zákeřník. Seběhli se místní muži a začali přemýšlet, odkud se střílelo. Nevěděli, odkud se výstřel vzal, protože všechny domy v bloku prohledali od půdy až po sklep. Jeden z nich se však přizná, že našel stařenu a zželelo se mu jí. Muži šli k domu té stařeny, zazvonili a stařena otevřela. Panu Martínkovi se celou dobu něco nezdá. Prohledal dům a na stole našel nakousnutý krajíc chleba, od mužského, širokého chrupu. Začal prohledávat šatní skříň, kde našel Němce Waltera − zákeřníka. Protože byl kovář, přepral ho. Stařena, zákeřníkova matka, se snažila syna ochránit a svalit veškerou vinu na sebe. Muži ji donutili se podívat z okna na nebohou mrtvou Helenku. Stařena při tom nedopatřením vypadla z okna. Zákeřníka vyvedli ven k Helence a donutili ho líbat zem. Plivnul Helence do obličeje. Muži ho donutili „žrát“ hlínu ze země a předali ho partyzánům.
+- **Němá barikáda** - Na jednom pražském mostě stojí tři barikády. Téměř všichni museli odejít bránit břeh, protože Němci přejížděli loděmi přes řeku. Barikáda utichla. Němci se chystají k útoku na barikádu. Zůstali tu jen tři muži: Nederland, Franta Kroupa a pan Bůček. Bezstarostní Němci se přibližují. Když jsou dostatečně blízko, ti tři spustí střelbu a pobijí 
+- **Pancéřová pěst**
+- **Vyšší princip**
 
 #### KOMPOZICE DÍLA:
 - děj povídek se odvíjí chronologicky, 11 povídek / úryvek má 2 odstavce
