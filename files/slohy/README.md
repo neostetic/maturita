@@ -14,4 +14,4 @@
 - 70 - 80 l. 19: [lumírovci](./11.lum%C3%ADrovci.md) a [ruchovci](./12.ruchovci.md)
 - přelom 19 a 20: [symbolismus](./13.symbolismus.md)
 - konec 19 - zač. 20: [česká modera](./14.%C4%8Desk%C3%A1%20moderna.md)
-- počátek 20: []
+- počátek 20: [anarchističtí buřiči](./15.anarchisti%C4%8Dt%C3%AD%20bu%C5%99i%C4%8Di.md)
