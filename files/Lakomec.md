@@ -4,6 +4,8 @@
 - drama, drama, komedie
 
 #### STRUČNĚ O AUTOROVI:
+- satirické komedie
+- zesměšňoval společnost (církev, šlechtu)
 - vlastním jménem Jean-Baptiste Poquelin [:žán batyst poklen:]
 - výborné vzdělání – studoval práva, měl být notářem
 - největší francouzský autor komedií
