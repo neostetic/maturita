@@ -5,6 +5,9 @@
 - [Milujeme češtinu](https://www.milujemecestinu.cz/)
 - [Rozbor-dila.cz](https://rozbor-dila.cz)
 
+#### Slohy
+- [Slohy](./files/slohy)
+
 #### Díla
 - 2 díla z literatury 18. století – česká i světová tvorba – v libovolném poměru
   - [x] 1 - [William Shakespeare - Romeo a Julie (1985)](/files/Romeo%20a%20Julie.md) ✔️
