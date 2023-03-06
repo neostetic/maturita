@@ -37,7 +37,7 @@
   - [ ] [Karel Jaromír Erben - Kytice ](/files/Kytice.md) ✖️
   - [x] 2 - [Jan Drda - Němá barikáda](/files/Němá%20barikáda.md) ✔️
   - [ ] [Jaroslav Vrchlický - Noc na Karlštejně](/files/Noc%20na%20Karlštejně.md) ✖️
-  - [ ] 3 - [Divadlo Járy Cimrmana  - Dobytí severního pólu](/files/Dobytí%20severního%20pólu.md) ✖️
+  - [x] 3 - [Divadlo Járy Cimrmana  - Dobytí severního pólu](/files/Dobytí%20severního%20pólu.md) ✔️
 
 #### Osnova
 - [DOWNLOAD](https://raw.githubusercontent.com/neostetic/maturita/main/files/_osnova.png?token=GHSAT0AAAAAAB6W76JIRWSLBF7BJPHBLD5EY7KHHBA)
