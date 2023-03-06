@@ -22,22 +22,22 @@
   - [x] 1 - [Antoine de Saint-Exupéry - Malý princ (2010)](/files/Malý%20princ.md) ✔️
   - [ ] 2 - [Wladyslaw Szpilman - Pianista (Smrt města) (1999)](/files/Pianista.md) ✖️
   - [ ] 2 - [Romain Rolland - Petr a Lucie (1973)](/files/Petr%20a%20Lucie.md) ✖️
-  - [ ] [Erich Maria Remarque - Na západní frontě klid (1973)](/files/Na%20západní%20frontě%20klid.md) ✖️
+  - [x] 3 - [Erich Maria Remarque - Na západní frontě klid (1973)](/files/Na%20západní%20frontě%20klid.md) ✔️
 
 - 5 děl z české literatury 20. a 21. století
   - [x] 1 - [Viktor Dyk - Krysař](/files/Krysař.md) ✔️
-  - [ ] [Josef Kopta - Hlídač č. 47](/files/Hlídač%20č.%2047.md) ✖️
+  - [ ] 3 - [Josef Kopta - Hlídač č. 47](/files/Hlídač%20č.%2047.md) ✖️
   - [ ] [Ivan Olbracht - Nikola Šuhaj loupežník](/files/Nikola%20Šuhaj%20loupežník.md) ✖️
   - [x] 1 - [Karel Čapek - Bílá nemoc](/files/Bílá%20nemoc.md) ✔️
-  - [ ] [Karel Poláček - Bylo nás pět](/files/Bylo%20nás%20pět.md) ✖️
+  - [ ] 3 - [Karel Poláček - Bylo nás pět](/files/Bylo%20nás%20pět.md) ✖️
 
 - 6 děl libovolného výběru
-  - [ ] [Charles Dickens - Oliver Twist (1966)](/files/Oliver%20Twist.md) ✖️
+  - [ ] 3 - [Charles Dickens - Oliver Twist (1966)](/files/Oliver%20Twist.md) ✖️
   - [ ] [Karel Hynek Mácha - Máj ](/files/Máj.md) ✖️
   - [ ] [Karel Jaromír Erben - Kytice ](/files/Kytice.md) ✖️
   - [x] 2 - [Jan Drda - Němá barikáda](/files/Němá%20barikáda.md) ✔️
   - [ ] [Jaroslav Vrchlický - Noc na Karlštejně](/files/Noc%20na%20Karlštejně.md) ✖️
-  - [ ] [George Bernard Shaw - Pygmalion (2012)](/files/Pygmalion.md) ✖️
+  - [ ] 3 - [Divadlo Járy Cimrmana  - Dobytí severního pólu](/files/DobytiSevernihoPolu.md) ✖️
 
 #### Osnova
 - [DOWNLOAD](https://raw.githubusercontent.com/neostetic/maturita/main/files/_osnova.png?token=GHSAT0AAAAAAB6W76JIRWSLBF7BJPHBLD5EY7KHHBA)
