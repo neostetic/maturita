@@ -29,7 +29,7 @@
   - [ ] 3 - [Josef Kopta - Hlídač č. 47](/files/Hlídač%20č.%2047.md) ✖️
   - [ ] [Ivan Olbracht - Nikola Šuhaj loupežník](/files/Nikola%20Šuhaj%20loupežník.md) ✖️
   - [x] 1 - [Karel Čapek - Bílá nemoc](/files/Bílá%20nemoc.md) ✔️
-  - [ ] 3 - [Karel Poláček - Bylo nás pět](/files/Bylo%20nás%20pět.md) ✖️
+  - [x] 3 - [Karel Poláček - Bylo nás pět](/files/Bylo%20nás%20pět.md) ✔️
 
 - 6 děl libovolného výběru
   - [ ] 3 - [Charles Dickens - Oliver Twist (1966)](/files/Oliver%20Twist.md) ✖️
