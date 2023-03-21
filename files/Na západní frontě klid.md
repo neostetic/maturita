@@ -75,6 +75,8 @@ velitelství napsalo do zprávy: Na západní frontě klid.
 
 #### KOMPOZICE DÍLA:
 - vypravěč, -ich forma
+- ke konci po Pavlovy smtri; -er frmoa
+- kapitoly
 
 #### JAZYK:
 - převažuje pásmo vypravěče v *ich-formě*
