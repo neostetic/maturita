@@ -9,6 +9,7 @@
 - [Slohy](./files/slohy)
 
 #### Díla
+###### ✔️ - hotový rozbor, ✖️- nedokončený rozbor
 - 2 díla z literatury 18. století – česká i světová tvorba – v libovolném poměru
   - [x] 1 - [William Shakespeare - Romeo a Julie (1985)](/files/Romeo%20a%20Julie.md) ✔️
   - [x] 2 - [Moliére - Lakomec (1966)](/files/Lakomec.md) ✔️ 
