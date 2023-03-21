@@ -32,7 +32,7 @@
   - [x] 3 - [Karel Poláček - Bylo nás pět](/files/Bylo%20nás%20pět.md) ✔️
 
 - 6 děl libovolného výběru
-  - [x] 3 - [Charles Dickens - Oliver Twist (1966)](/files/Oliver%20Twist.md) ✖️
+  - [x] 3 - [Charles Dickens - Oliver Twist (1966)](/files/Oliver%20Twist.md) ✔️
   - [ ] [Karel Hynek Mácha - Máj ](/files/Máj.md) ✖️
   - [ ] [Karel Jaromír Erben - Kytice](/files/Kytice.md) ✖️
   - [x] 2 - [Jan Drda - Němá barikáda](/files/Němá%20barikáda.md) ✔️
