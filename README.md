@@ -20,21 +20,21 @@
 
 - 4 díla ze světové literatury 20. a 21. století
   - [x] 1 - [Antoine de Saint-Exupéry - Malý princ (2010)](/files/Malý%20princ.md) ✔️
-  - [ ] 2 - [Wladyslaw Szpilman - Pianista (Smrt města) (1999)](/files/Pianista.md) ✖️
-  - [ ] 2 - [Romain Rolland - Petr a Lucie (1973)](/files/Petr%20a%20Lucie.md) ✖️
+  - [x] 2 - [Wladyslaw Szpilman - Pianista (Smrt města) (1999)](/files/Pianista.md) ✖️
+  - [x] 2 - [Romain Rolland - Petr a Lucie (1973)](/files/Petr%20a%20Lucie.md) ✖️
   - [x] 3 - [Erich Maria Remarque - Na západní frontě klid (1973)](/files/Na%20západní%20frontě%20klid.md) ✔️
 
 - 5 děl z české literatury 20. a 21. století
   - [x] 1 - [Viktor Dyk - Krysař](/files/Krysař.md) ✔️
-  - [ ] 3 - [Josef Kopta - Hlídač č. 47](/files/Hlídač%20č.%2047.md) ✖️
+  - [x] 3 - [Josef Kopta - Hlídač č. 47](/files/Hlídač%20č.%2047.md) ✖️
   - [ ] [Ivan Olbracht - Nikola Šuhaj loupežník](/files/Nikola%20Šuhaj%20loupežník.md) ✖️
   - [x] 1 - [Karel Čapek - Bílá nemoc](/files/Bílá%20nemoc.md) ✔️
   - [x] 3 - [Karel Poláček - Bylo nás pět](/files/Bylo%20nás%20pět.md) ✔️
 
 - 6 děl libovolného výběru
-  - [ ] 3 - [Charles Dickens - Oliver Twist (1966)](/files/Oliver%20Twist.md) ✖️
+  - [x] 3 - [Charles Dickens - Oliver Twist (1966)](/files/Oliver%20Twist.md) ✖️
   - [ ] [Karel Hynek Mácha - Máj ](/files/Máj.md) ✖️
-  - [ ] [Karel Jaromír Erben - Kytice ](/files/Kytice.md) ✖️
+  - [ ] [Karel Jaromír Erben - Kytice](/files/Kytice.md) ✖️
   - [x] 2 - [Jan Drda - Němá barikáda](/files/Němá%20barikáda.md) ✔️
   - [ ] [Jaroslav Vrchlický - Noc na Karlštejně](/files/Noc%20na%20Karlštejně.md) ✖️
   - [x] 3 - [Divadlo Járy Cimrmana  - Dobytí severního pólu](/files/Dobytí%20severního%20pólu.md) ✔️
