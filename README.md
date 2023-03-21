@@ -9,7 +9,6 @@
 - [Slohy](./files/slohy)
 
 #### Díla
-###### ✔️ - hotový rozbor, ✖️- nedokončený rozbor
 - 2 díla z literatury 18. století – česká i světová tvorba – v libovolném poměru
   - [x] 1 - [William Shakespeare - Romeo a Julie (1985)](/files/Romeo%20a%20Julie.md) ✔️
   - [x] 2 - [Moliére - Lakomec (1966)](/files/Lakomec.md) ✔️ 
@@ -39,6 +38,8 @@
   - [x] 2 - [Jan Drda - Němá barikáda](/files/Němá%20barikáda.md) ✔️
   - [ ] [Jaroslav Vrchlický - Noc na Karlštejně](/files/Noc%20na%20Karlštejně.md) ✖️
   - [x] 3 - [Divadlo Járy Cimrmana  - Dobytí severního pólu](/files/Dobytí%20severního%20pólu.md) ✔️
+
+###### ✔️ - hotový rozbor, ✖️- nedokončený rozbor
 
 #### Osnova
 - [DOWNLOAD](https://github.com/neostetic/maturita/raw/main/files/_osnova.png)
