@@ -2,7 +2,7 @@
 
 #### Pomocné soubory
 - [Prezentace](/files/Maturitní%20píčoviny.pptx)
-- [Progress prezentace](/files/Maturitní%20píčoviny.txt)
+- [Textový dokument](/files/Maturitní%20píčoviny.txt)
 
 #### Zdroje
 - [Cesky-Jazyk.cz](https://www.cesky-jazyk.cz)
