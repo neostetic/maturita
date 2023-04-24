@@ -22,11 +22,11 @@
 ![11](11.jpg)
 ### 12. Ivan Olbracht
 ![12](12.jpg)
-### 13. Ivan Olbracht
+### 13. Karel Čapek
 ![13](13.jpg)
-### 14. Karel Čapek
+### 14. Karel Poláček
 ![14](14.jpg)
-### 15. Karel Poláček
+### 15. Josef Kopta
 ![15](15.jpg)
 ### 16. Romain Rolland
 ![16](16.jpg)
