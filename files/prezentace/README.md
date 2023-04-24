@@ -18,9 +18,9 @@
 ![9](9.jpg)
 ### 10. Jaroslav Vrchlický
 ![10](10.jpg)
-### 11. Romain Rolland
+### 11. Viktor Dyk
 ![11](11.jpg)
-### 12. Viktor Dyk
+### 12. Ivan Olbracht
 ![12](12.jpg)
 ### 13. Ivan Olbracht
 ![13](13.jpg)
