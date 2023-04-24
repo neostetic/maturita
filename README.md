@@ -2,7 +2,7 @@
 
 #### Pomocné soubory
 - [Prezentace](/files/Maturitní%20píčoviny.pptx)
-- [Prezentace - Github](/files/maturitniprezentace.md)
+- [Prezentace - Github](/files/prezentace)
 - [Textový dokument](/files/Maturitní%20píčoviny.txt)
 
 #### Zdroje
