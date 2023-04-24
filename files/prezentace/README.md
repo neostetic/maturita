@@ -10,11 +10,11 @@
 ![5](5.jpg)
 ### 6. Nikojal Vasiljevič Gogol
 ![6](6.jpg)
-### 7. Karel Hynek Mácha
+### 7. Charles Dickens
 ![7](7.jpg)
-### 8. Karel Jaromír Erben
+### 8. Karel Hynek Mácha
 ![8](8.jpg)
-### 9. Charles Dickens
+### 9. Karel Jaromír Erben
 ![9](9.jpg)
 ### 10. Jaroslav Vrchlický
 ![10](10.jpg)
