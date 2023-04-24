@@ -28,7 +28,7 @@
 ![14](14.jpg)
 ### 15. Karel Poláček
 ![15](15.jpg)
-### 16. Josef Kopta
+### 16. Romain Rolland
 ![16](16.jpg)
 ### 17. Erich Maria Remarque
 ![17](17.jpg)
