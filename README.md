@@ -15,34 +15,34 @@
 
 #### Díla
 - 2 díla z literatury 18. století – česká i světová tvorba – v libovolném poměru
-  - [x] 1 - [William Shakespeare - Romeo a Julie (1985)](/files/Romeo%20a%20Julie.md) ✔️
-  - [x] 2 - [Moliére - Lakomec (1966)](/files/Lakomec.md) ✔️ 
+  - [x] [William Shakespeare - Romeo a Julie (1985)](/files/Romeo%20a%20Julie.md) ✔️
+  - [x] [Moliére - Lakomec (1966)](/files/Lakomec.md) ✔️ 
 
 - 3 díla z literatury 19. století – česká i světová tvorba – v libovolném poměru
-  - [x] 1 - [Victor Hugo - Bídníci (1984)](/files/Bídníci.md) ✔️
+  - [x] [Victor Hugo - Bídníci (1984)](/files/Bídníci.md) ✔️
   - [ ] [Nikolaj Vasiljevič Gogol - Revizor (2010)](/files/Revizor.md) ✖️
-  - [x] 2 - [Alexandre Dumas - Tři mušketýři (1971)](/files/Tři%20mušketýři.md) ✔️ 
+  - [x] [Alexandre Dumas - Tři mušketýři (1971)](/files/Tři%20mušketýři.md) ✔️ 
 
 - 4 díla ze světové literatury 20. a 21. století
-  - [x] 1 - [Antoine de Saint-Exupéry - Malý princ (2010)](/files/Malý%20princ.md) ✔️
-  - [x] 2 - [Wladyslaw Szpilman - Pianista (Smrt města) (1999)](/files/Pianista.md) ✖️
-  - [x] 2 - [Romain Rolland - Petr a Lucie (1973)](/files/Petr%20a%20Lucie.md) ✖️
-  - [x] 3 - [Erich Maria Remarque - Na západní frontě klid (1973)](/files/Na%20západní%20frontě%20klid.md) ✔️
+  - [x] [Antoine de Saint-Exupéry - Malý princ (2010)](/files/Malý%20princ.md) ✔️
+  - [x] [Wladyslaw Szpilman - Pianista (Smrt města) (1999)](/files/Pianista.md) ✖️
+  - [x] [Romain Rolland - Petr a Lucie (1973)](/files/Petr%20a%20Lucie.md) ✖️
+  - [x] [Erich Maria Remarque - Na západní frontě klid (1973)](/files/Na%20západní%20frontě%20klid.md) ✔️
 
 - 5 děl z české literatury 20. a 21. století
-  - [x] 1 - [Viktor Dyk - Krysař](/files/Krysař.md) ✔️
-  - [x] 3 - [Josef Kopta - Hlídač č. 47](/files/Hlídač%20č.%2047.md) ✖️
+  - [x] [Viktor Dyk - Krysař](/files/Krysař.md) ✔️
+  - [x] [Josef Kopta - Hlídač č. 47](/files/Hlídač%20č.%2047.md) ✖️
   - [ ] [Ivan Olbracht - Nikola Šuhaj loupežník](/files/Nikola%20Šuhaj%20loupežník.md) ✖️
-  - [x] 1 - [Karel Čapek - Bílá nemoc](/files/Bílá%20nemoc.md) ✔️
-  - [x] 3 - [Karel Poláček - Bylo nás pět](/files/Bylo%20nás%20pět.md) ✔️
+  - [x] [Karel Čapek - Bílá nemoc](/files/Bílá%20nemoc.md) ✔️
+  - [x] [Karel Poláček - Bylo nás pět](/files/Bylo%20nás%20pět.md) ✔️
 
 - 6 děl libovolného výběru
-  - [x] 3 - [Charles Dickens - Oliver Twist (1966)](/files/Oliver%20Twist.md) ✔️
+  - [x] [Charles Dickens - Oliver Twist (1966)](/files/Oliver%20Twist.md) ✔️
   - [ ] [Karel Hynek Mácha - Máj ](/files/Máj.md) ✖️
   - [ ] [Karel Jaromír Erben - Kytice](/files/Kytice.md) ✖️
-  - [x] 2 - [Jan Drda - Němá barikáda](/files/Němá%20barikáda.md) ✔️
+  - [x] [Jan Drda - Němá barikáda](/files/Němá%20barikáda.md) ✔️
   - [ ] [Jaroslav Vrchlický - Noc na Karlštejně](/files/Noc%20na%20Karlštejně.md) ✖️
-  - [x] 3 - [Divadlo Járy Cimrmana  - Dobytí severního pólu](/files/Dobytí%20severního%20pólu.md) ✔️
+  - [x] [Divadlo Járy Cimrmana  - Dobytí severního pólu](/files/Dobytí%20severního%20pólu.md) ✔️
 
 ###### ✔️ - hotový rozbor, ✖️- nedokončený rozbor
 
